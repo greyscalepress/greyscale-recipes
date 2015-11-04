@@ -1,2 +1,11 @@
-# greyscale-recipes
-A couple of Autopkg recipes
+# What's this?
+
+These are my recipes for [AutoPkg](https://github.com/autopkg/autopkg).
+
+# Installation
+
+Just run:
+
+    $ autopkg repo-add https://github.com/greyscalepress/greyscale-recipes.git
+
+Which of course requires that you have [AutoPkg installed](https://github.com/autopkg/autopkg/wiki/Getting-Started).
